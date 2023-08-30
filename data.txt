@@ -1,1 +1,2 @@
 I have four apples in my backpack
+#THIS IS THE FILE WHERE CORTANA AI WILL ADD STUF YOU SAY TO REMEMBER!
